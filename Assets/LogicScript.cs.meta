@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a6f8594908f088d4bbc72625969a4223
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - apple: {fileID: 8460137151133281806, guid: 5c965ee719813d94e9c62c6b42af932c, type: 3}
+  - Body: {fileID: 3844245242466255394, guid: 67979584db0e8354bb8c047476a6d32c, type: 3}
+  - snake: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
